@@ -1,6 +1,6 @@
 The flash-v2.sh has not been tested on every single OSes like flash.sh so, if there is/are any problem/s, please report to me, thanks!
 
-WHAT'S NEW IN V2
+WHAT'S NEW IN V2:
 
 - Verify if you are running in root or not
 - Added a pause function, in order to make you able to read everything carefully before accept

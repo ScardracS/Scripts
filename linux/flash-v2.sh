@@ -97,7 +97,7 @@ read B
 					fastboot reboot
 					clear
 					exit
-				else
+				else;
 					fastboot erase customize
 					fastboot erase clogo
 					fastboot oem fb_mode_clear
@@ -105,7 +105,7 @@ read B
 					clear
 					exit
 				fi
-	else
+	else;
 		clear
 		echo "Script stopped!"
 		exit 1
